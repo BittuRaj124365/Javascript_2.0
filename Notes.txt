@@ -1,0 +1,8 @@
+part_1=[
+    03:45,
+    04:38,
+]
+
+"use strict" // this words is used to run codes with new latest  js version
+
+let no="323"=> after converting this variable into no, it would change into no and its data type also would be number but let suppose inside the string it would be like "323abc" then if convert into number but its data type will be NaN(Not a number)
